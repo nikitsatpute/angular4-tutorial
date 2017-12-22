@@ -1,2 +1,2 @@
-# angular4-tutorial
-AngularJS for beginners
+# angular4-tutorial AngularJS for beginners
+
